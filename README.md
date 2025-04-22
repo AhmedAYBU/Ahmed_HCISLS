@@ -1,2 +1,2 @@
-# HCISLS_Sign-Language-Alphabet
+# HCISLS
 Datasets (Coming Soon)
